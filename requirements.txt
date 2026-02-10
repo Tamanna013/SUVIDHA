@@ -1,0 +1,21 @@
+# Core
+streamlit==1.28.0
+pandas==2.1.3
+numpy==1.24.3
+
+# Database
+sqlite3
+
+# Multilingual & Voice
+SpeechRecognition==3.10.0
+gTTS==2.3.2
+googletrans==4.0.0-rc1
+langdetect==1.0.9
+
+# QR Code & Images
+qrcode==7.4.2
+Pillow==10.1.0
+
+# Optional for webcam (if needed)
+opencv-python-headless==4.8.1.78
+streamlit-webrtc==0.47.0  # For real webcam support
